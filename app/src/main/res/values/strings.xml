@@ -13,4 +13,9 @@ extraction.)</string>
 espresso with steamed milk and only a little milk foam poured over it. Serve in a
 latte glass or a coffee cup. Flavored syrup can be added.</string>
     <string name="coffee_list">Coffee List</string>
+    <string name="mocha_title">MOCHA</string>
+    <string name="mocha_desc">Espresso with steamed milk and chocolate syrup, topped with whipped cream. Served in a coffee cup or latte glass.</string>
+
+    <string name="cappuccino_title">CAPPUCCINO</string>
+    <string name="cappuccino_desc">Espresso with steamed milk and a thick layer of milk foam. Usually served in a small cup with a sprinkle of cocoa powder on top.</string>
 </resources>
